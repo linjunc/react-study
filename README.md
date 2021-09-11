@@ -51,7 +51,7 @@
 
 <h2 align="center">文章目录</h2><h3>第一篇文章：<a href="https://github.com/linjunc/react-study/blob/main/React%20%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89--%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%A5%E5%8F%8A%20jsx%E8%AF%AD%E6%B3%95.md"><i>React 入门学习（一）-- 基础知识以及 jsx 语法</i></a></h3>
 
-<p>这篇文章简要的介绍了 React 的编写方式，以及虚拟 DOM 和真实 DOM 存在的差异，同时简单的介绍了 JSX 语法</p><p align="center"><a href="https://github.com/linjunc/react-study/blob/main/React%20%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89--%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%A5%E5%8F%8A%20jsx%E8%AF%AD%E6%B3%95.md"><img src="https://ljcimg.oss-cn-beijing.aliyuncs.com/img/%E5%9F%BA%E7%A1%801.png"></img></a></p>
+<p>这篇文章简要的介绍了 React 的编写方式，以及虚拟 DOM 和真实 DOM 存在的差异，同时简单的介绍了 JSX 语法</p><p align="center"><a href="https://github.com/linjunc/react-study/blob/main/React%20%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89--%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%A5%E5%8F%8A%20jsx%E8%AF%AD%E6%B3%95.md"><img src="https://ljcimg.oss-cn-beijing.aliyuncs.com/img/%E7%AC%AC%E4%B8%80%E7%AF%87.png"></img></a></p>
 
 <h3>第二篇文章：<a href="https://github.com/linjunc/react-study/blob/main/React%20%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%8C%EF%BC%89--%20%E9%9D%A2%E5%90%91%E7%BB%84%E4%BB%B6%E7%BC%96%E7%A8%8B.md"><i>React 入门学习（二）-- 面向组件编程</i></a></h3>
 
