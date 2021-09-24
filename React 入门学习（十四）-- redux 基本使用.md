@@ -209,6 +209,8 @@ export default createStore(countReducer, applyMiddleware(thunk))
 
 注意：异步 action 不是必须要写的，完全可以自己等待异步任务的结果后再去分发同步action
 
+> 采用 `react-thunk` 能让异步代码像同步代码一样执行，在 `redux` 中我们也是可以实现异步的，但是这样我们的代码中会有很多异步的细节，这不是我们想看到的，利用 `react-thunk` 之类的库，就能让我们只关心我们的业务
+
 ## 6. Redux 三大原则
 
 理解好 Redux 有助于我们更好的理解接下来的 React -Redux
