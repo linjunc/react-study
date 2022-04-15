@@ -4,14 +4,10 @@
 <p align="center">希望你能有所收获</p>
 <p align="center">
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-  <a href="https://gitee.com/Linjc66"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-brightgreen" alt="juejin"></a>
 </p>
 <p align="center"><img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="juejin"></p>
-
-
-<h1 align="center">💖 React 入门学习</h1>
 
 
 
