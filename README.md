@@ -24,33 +24,31 @@
         <i>尚硅谷2021版React技术全家桶全套完整版（零基础入门到精通/男神天禹老师亲授）</i>
     </a>
     </p>
-    <p align="center"><a href="https://github.com/linjunc/react-study"><img src="https://ljcimg.oss-cn-beijing.aliyuncs.com/img/image-20210911211905969.png"></img></a>
-<p>
     欢迎一起学习交流！
 </p>
 </p>
 </h5>
 
-| React 基础学习 | React Hooks 实战项目     | React 源码学习     |React 精选文章|
-| ---------- | ---------- | ---------- | ---------- |
-| [基础知识以及 jsx 语法][1-1] | [项目介绍&登录注册][2-1] | 正在更新... |
-| [面向组件编程][1-2] | [项目列表展示][2-2] | 正在更新... |
-| [生命周期 LifeCycle][1-3] | [项目列表功能模块][2-3] | 正在更新... |
-| [diffing 算法][1-4] | [搜索功能实现][2-4] | 正在更新... |
-| [认识脚手架][1-5] | [路由跳转页面][2-5] | 正在更新... |
-| [TodoList 案例][1-6] | [看板页面展示][2-6] | 正在更新... |
-| [脚手架配置代理][1-7] | [任务组页面实现][2-7] | 正在更新... |
-| [GitHub 搜索案例][1-8] | [拖拽功能实现][2-8] | 正在更新... |
-| [消息订阅发布][1-9] | [项目总结][2-9] | 正在更新... |
-| [React 路由][1-10] |  | 正在更新... |
-| [React 路由传参][1-11] |  | 正在更新... |
-| [React 路由跳转][1-12] |  | 正在更新... |
-| [antd 组件库的基本使用][1-13] |  | 正在更新... |
-| [redux 基本使用][1-14] |  | 正在更新... |
-| [React-Redux 基本使用][1-15] |  | 正在更新... |
-| [数据共享][1-16] |  | 正在更新... |
-| [React 扩展][1-17] |  | 正在更新... |
-| [React Hooks][1-18] |  | 正在更新... |
+| React 基础学习 | React Hooks 实战项目     | React 源码学习     |React 精选文章| React 进阶电子书 |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [基础知识以及 jsx 语法][1-1] | [项目介绍&登录注册][2-1] | 正在更新... | [走进React Fiber 架构][4-1]| [React 技术揭秘][5-1]|
+| [面向组件编程][1-2] | [项目列表展示][2-2] |  | [这可能是最通俗的 React Fiber(时间分片) 打开方式][4-2] | [人人都能读懂的 react 源码解析][5-2]|
+| [生命周期 LifeCycle][1-3] | [项目列表功能模块][2-3] |  | [走进React Fiber的世界][4-3] | [React 源码解析][5-3] |
+| [diffing 算法][1-4] | [搜索功能实现][2-4] |  | [详解 react diff][4-4]| [React 进阶实践指南][5-4] |
+| [认识脚手架][1-5] | [路由跳转页面][2-5] |  |  [一文吃透react事件系统原理][4-5] | [reactExplain][5-5] |
+| [TodoList 案例][1-6] | [看板页面展示][2-6] |  | [React 事件系统工作原理][4-6] | [图解React原理系列][5-6]|
+| [脚手架配置代理][1-7] | [任务组页面实现][2-7] |  |[react-router v6 通关指南][4-7] | [React 进阶专栏][5-7]|
+| [GitHub 搜索案例][1-8] | [拖拽功能实现][2-8] |  | [一文吃透react-hooks原理][4-8]  |
+| [消息订阅发布][1-9] | [项目总结][2-9] |  | [React 18 超全升级指南][4-9] |
+| [React 路由][1-10] |  |  | [从React源码分析渲染更新流程][4-10]|
+| [React 路由传参][1-11] |  |  | [React小技巧汇总][4-11]|
+| [React 路由跳转][1-12] |  |  |
+| [antd 组件库的基本使用][1-13] |  |  |
+| [redux 基本使用][1-14] |  |  |
+| [React-Redux 基本使用][1-15] |  |  |
+| [数据共享][1-16] |  |  |
+| [React 扩展][1-17] |  |  |
+| [React Hooks][1-18] |  |  |
 
 
 
@@ -88,3 +86,24 @@
 [2-7]:https://github.com/linjunc/react-study/blob/main/React%20Hooks%20%E9%A1%B9%E7%9B%AE/%EF%BC%88%E4%B8%83%EF%BC%89%E4%BB%BB%E5%8A%A1%E7%BB%84%E9%A1%B5%E9%9D%A2%E5%AE%9E%E7%8E%B0.md
 [2-8]:https://github.com/linjunc/react-study/blob/main/React%20Hooks%20%E9%A1%B9%E7%9B%AE/%EF%BC%88%E5%85%AB%EF%BC%89%E6%8B%96%E6%8B%BD%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md
 [2-9]:https://github.com/linjunc/react-study/blob/main/React%20Hooks%20%E9%A1%B9%E7%9B%AE/%EF%BC%88%E7%BB%88%EF%BC%89%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md
+
+[4-1]: https://juejin.cn/post/6844904019660537869
+[4-2]: https://juejin.cn/post/6844903975112671239
+[4-3]: https://juejin.cn/post/6943896410987659277
+[4-4]: https://juejin.cn/post/6844903973585944589
+[4-5]: https://juejin.cn/post/6955636911214067720
+[4-6]: https://juejin.cn/post/6909271104440205326
+[4-7]: https://juejin.cn/post/7069555976717729805
+[4-8]: https://juejin.cn/post/6944863057000529933
+[4-9]: https://juejin.cn/post/7078511027091931167
+[4-10]: https://juejin.cn/post/6844904200824946696
+[4-11]: https://juejin.cn/post/6844903890467454989
+
+
+[5-1]: https://react.iamkasong.com/
+[5-2]: https://xiaochen1024.com/article_item/600ac4384bf83f002edaf54a
+[5-3]: https://react.jokcy.me/
+[5-4]: https://juejin.cn/book/6945998773818490884
+[5-5]: https://github.com/AttackXiaoJinJin/reactExplain
+[5-6]: https://7kms.github.io/react-illustration-series/
+[5-7]: https://juejin.cn/column/6961274930306482206
