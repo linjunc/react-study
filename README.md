@@ -1,11 +1,11 @@
 
 
 <h2 align="center">👋 这里是 React 学习天堂</h2>
-<p align="center">希望你能有所收获</p>
+<p align="center">希望你能有所收获, 期待你的 Star </p>
 <p align="center">
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-  <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-brightgreen" alt="juejin"></a>
+  <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 <p align="center"><img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="juejin"></p>
 
@@ -13,7 +13,7 @@
 
 <h5><p align="center"><i>If you like this series or learn something from it, please<a href="https://github.com/linjunc/react-study">★</a> this repository to show your support! 🤩</i></p>
 <p>
-    <h5 align="center">本仓库是 React 的学习笔记，如果有什么问题、错误的地方或者有什么想要添加的内容，欢迎与我联系！</h5>
+    <h5 align="center">本仓库非常适合 React 的学习者，持续收集 React 相关的技术好文，如果有什么问题、错误的地方或者有什么想要添加的内容，欢迎与我联系！</h5>
     </p>
 </h5>
 
