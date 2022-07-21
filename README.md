@@ -4,9 +4,9 @@
 <p align="center">希望你能有所收获, 期待你的 Star </p>
 <p align="center">
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
+  <img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="wechat">
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-brightgreen" alt="juejin"></a>
 </p>
-<p align="center"><img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="wechat"></p>
 
 
 
