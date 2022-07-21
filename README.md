@@ -101,7 +101,6 @@
 [3-13]: https://linjuncheng.cn/pages/react/hard/update.html
 [3-14]: https://linjuncheng.cn/pages/react/hard/priority.html
 [3-15]: https://linjuncheng.cn/pages/react/hard/updatecode.html
-[3-16]: 
 
 [4-1]: https://juejin.cn/post/6844904019660537869
 [4-2]: https://juejin.cn/post/6844903975112671239
