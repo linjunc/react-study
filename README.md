@@ -5,9 +5,8 @@
 <p align="center">
   <a href="https://github.com/linjunc"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://juejin.cn/user/1460594842018446"><img src="https://img.shields.io/badge/juejin-brightgreen" alt="juejin"></a>
-  <a href="https://blog.csdn.net/m0_50855872"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
-<p align="center"><img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="juejin"></p>
+<p align="center"><img src="https://img.shields.io/badge/weChat-Ljc--10c-blue" alt="wechat"></p>
 
 
 
