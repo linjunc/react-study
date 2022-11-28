@@ -169,4 +169,4 @@
 [5-5]: https://github.com/AttackXiaoJinJin/reactExplain
 [5-6]: https://7kms.github.io/react-illustration-series/
 [5-7]: https://juejin.cn/column/6961274930306482206
-[5-8]: https://linjuncheng.cn
+[5-8]: https://linjuncheng.cn/pages/react/hard/readme.html
