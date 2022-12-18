@@ -41,18 +41,45 @@
 - [专栏介绍][3-1]
 - [React 设计理念][3-2]
 - [React Fiber 架构][3-3]
+
+**Render 阶段**
+
 - [Render 阶段 - beginWork][3-4]
 - [Render 阶段 - completeWork][3-5]
+
+**commit 阶段**
 - [commit 阶段流程概览][3-6]
 - [BeforeMutation 阶段][3-7]
 - [Mutation 阶段][3-8]
 - [Layout 阶段][3-9]
+
+**Diff 算法**
+
 - [Diff 算法概览][3-10]
 - [单节点 Diff][3-11]
 - [多节点的 Diff][3-12]
+
+**状态更新**
 - [状态更新流程概览][3-13]
 - [优先级更新][3-14]
 - [状态更新调度源码解析][3-15]
+
+**Scheduler 模块**
+- [Scheduler 实现原理][Scheduler-origin]
+- [Scheduler 源码解析][Scheduler-code]
+
+**Hooks 实现**
+- [React Hooks 源码概览][hooks-pre]
+- [React Hooks useState 源码][hooks-useState]
+- [useReducer 源码解析][hooks-useReducer]
+- [useContext 源码解析][hooks-useContext]
+- [useEffect 源码解析][hooks-useEffect]
+- [useLayoutEffect 源码解析][hooks-useLayoutEffect]
+- [useRef 源码解析][hooks-useRef]
+- [useCallback & useMemo 源码解析][hooks-useMemo]
+- [useId 源码解析][hooks-useId]
+- [useTransition 源码解析][hooks-useTransition]
+- [Q & A][hooks-qa]
 
 ## React 进阶电子书
 
@@ -145,6 +172,19 @@
 [3-13]: https://linjuncheng.cn/pages/react/hard/update/update.html
 [3-14]: https://linjuncheng.cn/pages/react/hard/update/priority.html
 [3-15]: https://linjuncheng.cn/pages/react/hard/update/updatecode.html
+[Scheduler-origin]: https://linjuncheng.cn/pages/react/hard/scheduler/scheduler-origin.html
+[Scheduler-code]: https://linjuncheng.cn/pages/react/hard/scheduler/scheduler.html
+[hooks-pre]: https://linjuncheng.cn/pages/react/hard/hooks/hooks.html
+[hooks-useState]: https://linjuncheng.cn/pages/react/hard/hooks/useState.html
+[hooks-useReducer]: https://linjuncheng.cn/pages/react/hard/hooks/usereducer.html
+[hooks-useContext]: https://linjuncheng.cn/pages/react/hard/hooks/usecontext.html
+[hooks-useEffect]: https://linjuncheng.cn/pages/react/hard/hooks/useeffect.html
+[hooks-useLayoutEffect]: https://linjuncheng.cn/pages/react/hard/hooks/uselayouteffect.html
+[hooks-useRef]: https://linjuncheng.cn/pages/react/hard/hooks/useref.html
+[hooks-useMemo]: https://linjuncheng.cn/pages/react/hard/hooks/usememo-callback.html
+[hooks-useid]: https://linjuncheng.cn/pages/react/hard/hooks/useId.html
+[hooks-useTransition]: https://linjuncheng.cn/pages/react/hard/hooks/usetransition.html
+[hooks-qa]: https://linjuncheng.cn/pages/react/hard/hooks/qa.html
 
 [4-1]: https://juejin.cn/post/6844904019660537869
 [4-2]: https://juejin.cn/post/6844903975112671239
