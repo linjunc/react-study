@@ -130,21 +130,21 @@
 [2-8]:https://github.com/linjunc/react-study/blob/main/React%20Hooks%20%E9%A1%B9%E7%9B%AE/%EF%BC%88%E5%85%AB%EF%BC%89%E6%8B%96%E6%8B%BD%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md
 [2-9]:https://github.com/linjunc/react-study/blob/main/React%20Hooks%20%E9%A1%B9%E7%9B%AE/%EF%BC%88%E7%BB%88%EF%BC%89%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md
 
-[3-1]: https://linjuncheng.cn/pages/react/hard/start.html
+[3-1]: https://linjuncheng.cn/pages/react/hard/readme.html
 [3-2]: https://linjuncheng.cn/pages/react/hard/fiberidea.html
 [3-3]: https://linjuncheng.cn/pages/react/hard/constructure.html
-[3-4]: https://linjuncheng.cn/pages/react/hard/beginwork.html
-[3-5]: https://linjuncheng.cn/pages/react/hard/completework.html
-[3-6]: https://linjuncheng.cn/pages/react/hard/commit.html
-[3-7]: https://linjuncheng.cn/pages/react/hard/beforemutation.html
-[3-8]: https://linjuncheng.cn/pages/react/hard/mutation.html
-[3-9]: https://linjuncheng.cn/pages/react/hard/layout.html
-[3-10]: https://linjuncheng.cn/pages/react/hard/diffpre.html
-[3-11]: https://linjuncheng.cn/pages/react/hard/singlediff.html
-[3-12]: https://linjuncheng.cn/pages/react/hard/arraydiff.html
-[3-13]: https://linjuncheng.cn/pages/react/hard/update.html
-[3-14]: https://linjuncheng.cn/pages/react/hard/priority.html
-[3-15]: https://linjuncheng.cn/pages/react/hard/updatecode.html
+[3-4]: https://linjuncheng.cn/pages/react/hard/render/beginwork.html
+[3-5]: https://linjuncheng.cn/pages/react/hard/render/completework.html
+[3-6]: https://linjuncheng.cn/pages/react/hard/commit/commit.html
+[3-7]: https://linjuncheng.cn/pages/react/hard/commit/beforemutation.html
+[3-8]: https://linjuncheng.cn/pages/react/hard/commit/mutation.html
+[3-9]: https://linjuncheng.cn/pages/react/hard/commit/layout.html
+[3-10]: https://linjuncheng.cn/pages/react/hard/diff/diffpre.html
+[3-11]: https://linjuncheng.cn/pages/react/hard/diff/singlediff.html
+[3-12]: https://linjuncheng.cn/pages/react/hard/diff/arraydiff.html
+[3-13]: https://linjuncheng.cn/pages/react/hard/update/update.html
+[3-14]: https://linjuncheng.cn/pages/react/hard/update/priority.html
+[3-15]: https://linjuncheng.cn/pages/react/hard/update/updatecode.html
 
 [4-1]: https://juejin.cn/post/6844904019660537869
 [4-2]: https://juejin.cn/post/6844903975112671239
